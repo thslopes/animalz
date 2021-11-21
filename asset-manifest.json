@@ -1,25 +1,25 @@
 {
   "files": {
-    "app.js": "/static/js/app.7c6602db.chunk.js",
-    "app.js.map": "/static/js/app.7c6602db.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
-    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.1613ec4f.chunk.js": "/static/js/2.1613ec4f.chunk.js",
-    "static/js/2.1613ec4f.chunk.js.map": "/static/js/2.1613ec4f.chunk.js.map",
-    "favicon-16.png": "/favicon-16.png",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.1613ec4f.chunk.js.LICENSE.txt": "/static/js/2.1613ec4f.chunk.js.LICENSE.txt",
-    "static/media/d1.jpg": "/static/media/d1.87b9af35.jpg",
-    "static/media/e1.jpeg": "/static/media/e1.3493962f.jpeg",
-    "static/media/t1.jpg": "/static/media/t1.a400c638.jpg"
+    "app.js": "/animalz/static/js/app.7c6602db.chunk.js",
+    "app.js.map": "/animalz/static/js/app.7c6602db.chunk.js.map",
+    "runtime~app.js": "/animalz/static/js/runtime~app.c26164b1.js",
+    "runtime~app.js.map": "/animalz/static/js/runtime~app.c26164b1.js.map",
+    "static/js/2.0698cc6c.chunk.js": "/animalz/static/js/2.0698cc6c.chunk.js",
+    "static/js/2.0698cc6c.chunk.js.map": "/animalz/static/js/2.0698cc6c.chunk.js.map",
+    "favicon-16.png": "/animalz/favicon-16.png",
+    "favicon-32.png": "/animalz/favicon-32.png",
+    "favicon.ico": "/animalz/favicon.ico",
+    "index.html": "/animalz/index.html",
+    "manifest.json": "/animalz/manifest.json",
+    "serve.json": "/animalz/serve.json",
+    "static/js/2.0698cc6c.chunk.js.LICENSE.txt": "/animalz/static/js/2.0698cc6c.chunk.js.LICENSE.txt",
+    "static/media/d1.jpg": "/animalz/static/media/d1.87b9af35.jpg",
+    "static/media/e1.jpeg": "/animalz/static/media/e1.3493962f.jpeg",
+    "static/media/t1.jpg": "/animalz/static/media/t1.a400c638.jpg"
   },
   "entrypoints": [
-    "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.1613ec4f.chunk.js",
+    "static/js/runtime~app.c26164b1.js",
+    "static/js/2.0698cc6c.chunk.js",
     "static/js/app.7c6602db.chunk.js"
   ]
 }
