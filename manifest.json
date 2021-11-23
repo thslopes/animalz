@@ -6,6 +6,18 @@
   "short_name": "animalz",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "Animalz"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.thslopes.animalz",
+      "id": "com.thslopes.animalz"
+    }
+  ],
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "/animalz/pwa/chrome-icon/chrome-icon-144.png",
